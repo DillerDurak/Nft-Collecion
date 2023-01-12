@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Nft-Collection/static/css/main.39e6acb0.css",
-    "main.js": "/Nft-Collection/static/js/main.bd308a6c.js",
-    "static/media/nft-max.png": "/Nft-Collection/static/media/nft-max.302b212e4f6128ff1d65.png",
-    "static/media/noise.gif": "/Nft-Collection/static/media/noise.f6510c0049573ad52baf.gif",
-    "static/media/logo.png": "/Nft-Collection/static/media/logo.f5895aa6568b4494ee34.png",
-    "index.html": "/Nft-Collection/index.html",
-    "main.39e6acb0.css.map": "/Nft-Collection/static/css/main.39e6acb0.css.map",
-    "main.bd308a6c.js.map": "/Nft-Collection/static/js/main.bd308a6c.js.map"
+    "main.css": "/Nft-Collecion/static/css/main.21e9f869.css",
+    "main.js": "/Nft-Collecion/static/js/main.070fbb4f.js",
+    "static/media/nft-max.png": "/Nft-Collecion/static/media/nft-max.302b212e4f6128ff1d65.png",
+    "static/media/noise.gif": "/Nft-Collecion/static/media/noise.f6510c0049573ad52baf.gif",
+    "static/media/logo.png": "/Nft-Collecion/static/media/logo.f5895aa6568b4494ee34.png",
+    "index.html": "/Nft-Collecion/index.html",
+    "main.21e9f869.css.map": "/Nft-Collecion/static/css/main.21e9f869.css.map",
+    "main.070fbb4f.js.map": "/Nft-Collecion/static/js/main.070fbb4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.39e6acb0.css",
-    "static/js/main.bd308a6c.js"
+    "static/css/main.21e9f869.css",
+    "static/js/main.070fbb4f.js"
   ]
 }
