@@ -63,7 +63,7 @@ export default function Collection(){
 
                                 </form>
 
-                                <span style={{fontSize: "16px", lineHeight: "24px"}}>Если вы продадите токен, то мы деактивируем ваши промо-коды. Новый холдер получит новые промо на этом сайте</span>
+                                <span>Если вы продадите токен, то мы деактивируем ваши промо-коды. Новый холдер получит новые промо на этом сайте</span>
                             </div>
                             <div className="card__image">
                                 <img src={card} alt="" className="image"/>
@@ -82,7 +82,7 @@ export default function Collection(){
                                     <p>Индивидуальный промокод на скидку 35% на коллекции Co:Create. Сейчас доступна <ins>коллекция Befree X Smagina</ins> <strong>&#123; Befree124 &#125;</strong></p>
                                     <span>Промокод на следующую коллекцию CoCreate вы сможете получить на этом сайте. О старте продаж новой коллекции мы объявим в нашем канале BefreeWeb3</span>
                                 </div>
-                                <span style={{fontSize: "16px", lineHeight: "24px", justifySelf: "flex-end"}}>Если вы продадите токен, то мы деактивируем ваши промо-коды. Новый холдер получит новые промо на этом сайте</span>
+                                <span>Если вы продадите токен, то мы деактивируем ваши промо-коды. Новый холдер получит новые промо на этом сайте</span>
                             
                             </div>
                             <div className="card__image">
@@ -98,7 +98,7 @@ export default function Collection(){
                             <div className="card__info">
                                 <h1 className="card__title">Ваш токен Rare #505</h1>
                                 <p>Индивидуальный промокод на скидку 15% на все коллекции на <ins>сайте Befree</ins> <strong>&#123; Befree124 &#125;</strong></p>
-                                <span style={{fontSize: "16px", lineHeight: "24px"}}>Если вы продадите токен, то мы деактивируем ваши промо-коды. Новый холдер получит новые промо на этом сайте</span>
+                                <span>Если вы продадите токен, то мы деактивируем ваши промо-коды. Новый холдер получит новые промо на этом сайте</span>
                             </div>
                             <div className="card__image">
                                 <img src={card} alt="" className="image"/>
